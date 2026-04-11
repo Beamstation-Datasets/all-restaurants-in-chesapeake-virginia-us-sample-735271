@@ -1,2 +1,41 @@
-# all-restaurants-in-chesapeake-virginia-us-sample-735271
-Free BeamStation sample for All Restaurants in Chesapeake, Virginia, US (625 records in the full dataset)
+# All Restaurants in Chesapeake, Virginia, US
+
+> Free BeamStation sample export with 62 rows and masked direct-contact fields.
+
+## Snapshot
+
+| Field | Value |
+|---|---|
+| Dataset ID | `735271` |
+| Location | Chesapeake |
+| Category | Restaurants |
+| Full dataset size | 625 records |
+| Free sample size | 62 records (9.92%) |
+| Last export | 2026-04-07T10:59:12.365638+00:00 |
+| Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chesapeake-virginia-us-sample-735271/releases/download/sample-latest/beamstation_735271_restaurants-us-va_SAMPLE_DIST.csv) |
+
+## What is in this sample
+
+This sample is generated directly from the BeamStation export pipeline and combines the `complete` and `insights` export profiles into one evaluation CSV.
+
+Included signals:
+- business profile and location fields
+- ratings, review counts, and review activity
+- Beam Score and competitive metrics
+- sentiment and percentile features
+- social profile signals
+- masked email and masked phone fields
+
+## Get the full dataset
+
+The full commercial dataset is available in the BeamStation catalog:
+
+[https://beamstation.com/datasets](https://beamstation.com/datasets)
+
+Search for dataset ID `735271` on BeamStation if you want the exact commercial listing.
+
+## Notes
+
+- This repository only contains a free sample.
+- Contact data that drives the commercial value is partially masked.
+- The source sample file is mirrored from BeamStation B2 storage and refreshed from CentralDB exports.
