@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0bf24af3-a70e-4d18-a9e7-78425a123dbe",
+  "export_job_id": "b556fbde-a8af-4940-b7cb-596da06c45d3",
   "id_short": 735271,
-  "published_at": "2026-04-28T19:26:13Z",
+  "published_at": "2026-05-06T07:12:52Z",
   "repo_name": "all-restaurants-in-chesapeake-virginia-us-sample-735271",
   "sample_asset_name": "beamstation_735271_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/735271/beamstation_735271_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 58,
-  "sample_sha256": "11fbb7a41783fe11a99968e8a9cd63a4ff4bc74b8558ed8376c9460befa73eab",
-  "sample_size_bytes": 202428,
-  "total_records": 583
+  "sample_records": 65,
+  "sample_sha256": "45874713aafa4eec3d86b441f15403a6fd0ebf3c1ffe8a2a91b59d778dc26415",
+  "sample_size_bytes": 251764,
+  "total_records": 655
 }
